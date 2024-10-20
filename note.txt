@@ -1,0 +1,10 @@
+to start a project, run
+npm init
+
+then install dependencies
+yarn add express mongoose dotenv helmet morgan
+
+yarn start 
+
+to protect passwords
+yarn add bcrypt 
